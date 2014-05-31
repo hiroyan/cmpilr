@@ -16,5 +16,5 @@ Usage
 Command Line
 ======
     $ curl --data-binary @targetfile.coffee http(s)://launched_url/coffee/ > targetfile.js
-    $ curl --data-binary @targetfile.haml http(s)://launced_url/haml/ > targetfile.html
+    $ curl --data-binary @targetfile.haml http(s)://launched_url/haml/ > targetfile.html
     $ curl --data-binary @targetfile.scss http(s)://lanched_url/scss/ > targetfile.css
